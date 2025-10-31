@@ -120,9 +120,7 @@ jupyter notebook T20_World_Cup_Prediction.ipynb
 
 ---
 
-## 👨‍🏫 Mentor
 
-This project was completed under the guidance of **[Mentor’s Name]**.
 
 ---
 
